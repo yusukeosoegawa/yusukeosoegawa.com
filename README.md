@@ -1,4 +1,4 @@
-# Yusuke Osoegawa Personal Website
+# Personal Website
 
 A minimal personal website.
 
