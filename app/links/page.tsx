@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 const links = [
   { label: "X", href: "https://x.com/yusukeosoegawa" },
-  { label: "GitHub", href: "https://github.com/yusukeoseogawa" },
+  { label: "GitHub", href: "https://github.com/yusukeosoegawa" },
   { label: "Napier", href: "https://napier.finance/" },
 ];
 
