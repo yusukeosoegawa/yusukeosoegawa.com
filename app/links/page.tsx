@@ -9,9 +9,8 @@ export const metadata: Metadata = {
 };
 
 const links = [
-  { label: "X", href: "https://x.com/" },
-  { label: "GitHub", href: "https://github.com/" },
-  { label: "LinkedIn", href: "https://www.linkedin.com/" },
+  { label: "X", href: "https://x.com/yusukeosoegawa" },
+  { label: "GitHub", href: "https://github.com/yusukeoseogawa" },
   { label: "Napier", href: "https://napier.finance/" },
 ];
 

@@ -17,21 +17,18 @@ export default function AboutPage() {
       </header>
 
       <Prose>
-        <p>I’m Yusuke Osoegawa, founder of Napier Labs.</p>
+        <p>I’m Yusuke Osoegawa, founder and CEO of Napier Labs.</p>
 
         <p>
-          I work on DeFi infrastructure, especially systems related to yield
-          markets, market structure, and product design.
+          I design constraints and work on making DeFi a public good.
         </p>
 
         <p>
-          My broader interests include financial systems, coordination,
-          organizational design, and how software changes the way people build
-          and think.
+          My broader interests include financial systems, coordination, and how constraints shape systems.
         </p>
 
         <p>
-          This site is a place to publish writing and collect ideas over time.
+          This site is a place to publish writing and collect ideas.
         </p>
       </Prose>
     </article>
