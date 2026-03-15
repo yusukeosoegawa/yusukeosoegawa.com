@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Serif } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
 
 const serif = IBM_Plex_Serif({
   subsets: ["latin"],
