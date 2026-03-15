@@ -21,15 +21,12 @@ export default function HomePage() {
         <div className="stack-sm">
           <h1>Yusuke Osoegawa</h1>
           <p className="lede">
-            Founder of Napier Labs. I write about DeFi, systems, and product
-            design.
+            Founder of Napier Labs. I design constraints and work on making DeFi a public good
           </p>
         </div>
 
         <p>
-          I’m building infrastructure for yield markets at Napier. My interests
-          include DeFi market structure, product systems, and the design of
-          constraints.
+          I’m building DeFi infrastructur at Napier Labs. My broader interests include financial systems, coordination, and how constraints shape systems.
         </p>
 
         <nav aria-label="Primary page links" className="inline-links">
