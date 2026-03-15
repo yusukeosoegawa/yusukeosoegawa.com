@@ -1,6 +1,6 @@
 # Yusuke Osoegawa Personal Website
 
-A minimal text-first personal website built with Next.js, TypeScript, and MDX.
+A minimal personal website.
 
 ## Stack
 
