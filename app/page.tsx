@@ -26,7 +26,7 @@ export default function HomePage() {
         </div>
 
         <p>
-          I’m building DeFi infrastructur at Napier Labs. My broader interests include financial systems, coordination, and how constraints shape systems.
+          I’m building DeFi infrastructure at Napier Labs. My broader interests include financial systems, coordination, and how constraints shape systems.
         </p>
 
         <nav aria-label="Primary page links" className="inline-links">
