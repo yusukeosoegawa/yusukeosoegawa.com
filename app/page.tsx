@@ -6,7 +6,7 @@ import { getRecentPosts } from "@/lib/posts";
 export const metadata: Metadata = {
   title: "Home",
   description:
-    "Yusuke Osoegawa's personal website. Writing about DeFi, systems, and product design.",
+    "Yusuke Osoegawa's personal website. I write about DeFi, systems, and product design.",
   alternates: {
     canonical: "/",
   },
