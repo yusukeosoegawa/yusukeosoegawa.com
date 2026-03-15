@@ -1,10 +1,8 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Serif } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
 
-const serif = IBM_Plex_Serif({
+const inter = Inter({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
 });
@@ -20,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Yusuke Osoegawa",
     description:
-      "Founder of Napier Labs. I design constraints and work on making DeFi a public good",
+      "Founder of Napier Labs. I design constraints and work on making DeFi a public good.",
     url: "https://yusukeosoegawa.com",
     siteName: "Yusuke Osoegawa",
     locale: "en_US",
@@ -34,13 +32,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={serif.className}>
+    <html lang="en" className={inter.className}>
       <body>
-        <div className="site-shell">
-          <Header />
-          <main className="site-main">{children}</main>
-          <Footer />
-        </div>
+        {children}
       </body>
     </html>
   );
